@@ -1,16 +1,20 @@
 <h2 align="left">Hello There 👋</h2>
 
-<p align="left">
-I'm Qamar — a CSE student who likes building things and learning by making projects.<br>
-Currently focused on DSA, backend development, and full-stack applications.
-</p>
+<ul>
+  <li>👋 Hi, I'm <strong>Qamar</strong> — a CSE student who loves building things and learning by making projects.</li>
+  <li>💻 Currently focused on <strong>DSA</strong>, <strong>backend development</strong>, and <strong>full-stack applications</strong>.</li>
+  <li>📬 How to reach me via my email: <a href="mailto:qamarahmed25288@gmail.com">qamarahmed25288@gmail.com</a> 📬</li>
+</ul>
+
+<hr />
 
 <h2 align="left">I code in :</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo" />
+  <!-- Fixed Spring Boot Icon via SimpleIcons CDN -->
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="springboot logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
@@ -29,13 +33,15 @@ Currently focused on DSA, backend development, and full-stack applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
 </div>
 
+<hr />
+
 <h2 align="left">Socials :</h2>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335"
-       width="40" height="40"
-       alt="gmail logo"
-       title="qamarahmed25288@gmail.com" />
+  <!-- Clickable Gmail Icon -->
+  <a href="mailto:qamarahmed25288@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="gmail logo" title="qamarahmed25288@gmail.com" />
+  </a>
   <img width="12" />
 
   <a href="https://www.linkedin.com/in/qamar-ahmed-5b8319382/" target="_blank">
